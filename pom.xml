@@ -16,16 +16,16 @@
 
     <repositories>
         <repository>
-            <id>github-di4j</id>
-            <url>https://maven.pkg.github.com/dependencyinjection4j/di4j</url>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
         </repository>
     </repositories>
 
     <dependencies>
         <dependency>
-            <groupId>org.di4j</groupId>
+            <groupId>com.github.dependencyinjection4j</groupId>
             <artifactId>di4j</artifactId>
-            <version>1.0.2-SNAPSHOT</version>
+            <version>bf5dd16960</version>
         </dependency>
     </dependencies>
 
